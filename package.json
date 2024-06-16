@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mukul785.github.io/loan-calculator-app",
-  "name": "loan-calculator-app",
+  "homepage": "https://mukul785.github.io/loan-calculator",
+  "name": "loan-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
