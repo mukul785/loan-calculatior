@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 
 const App = () => {
@@ -52,7 +51,6 @@ const App = () => {
   };
 
   return (
-    <Router>
     <div className="container">
       <h1>Loan Calculations</h1>
       <label>Enter Rate (rupees per saekda)
@@ -97,7 +95,6 @@ const App = () => {
         </div>
       )}
     </div>
-    </Router>
   );
 };
 
