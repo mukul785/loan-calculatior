@@ -52,7 +52,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>Loan Calculations</h1>
+      <h1>Interest Calculator</h1>
       <label>Enter Rate (rupees per saekda)
         <input
           name='rateInput'
@@ -69,7 +69,7 @@ const App = () => {
             <p>Entry {index+1}</p>
             <button onClick={() => deleteEntry(index)} className="delete-button">Delete</button>
           </div>
-          {/* <p>Enter date</p> */}
+          <p>Enter date</p>
           <input
             type="date"
             value={entry.date}
