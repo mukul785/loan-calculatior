@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loan-calculator/static/css/main.3c320554.css",
-    "main.js": "/loan-calculator/static/js/main.ff5183b6.js",
+    "main.css": "/loan-calculator/static/css/main.f2b0e10d.css",
+    "main.js": "/loan-calculator/static/js/main.245398c4.js",
     "static/js/453.16d75863.chunk.js": "/loan-calculator/static/js/453.16d75863.chunk.js",
     "index.html": "/loan-calculator/index.html",
-    "main.3c320554.css.map": "/loan-calculator/static/css/main.3c320554.css.map",
-    "main.ff5183b6.js.map": "/loan-calculator/static/js/main.ff5183b6.js.map",
+    "main.f2b0e10d.css.map": "/loan-calculator/static/css/main.f2b0e10d.css.map",
+    "main.245398c4.js.map": "/loan-calculator/static/js/main.245398c4.js.map",
     "453.16d75863.chunk.js.map": "/loan-calculator/static/js/453.16d75863.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c320554.css",
-    "static/js/main.ff5183b6.js"
+    "static/css/main.f2b0e10d.css",
+    "static/js/main.245398c4.js"
   ]
 }
