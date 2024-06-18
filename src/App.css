@@ -20,6 +20,10 @@ h1 {
   border-radius: 4px;
 }
 
+.date-heading{
+  text-align: left;
+}
+
 .entry-top{
   display: flex;
   justify-content: space-between;
