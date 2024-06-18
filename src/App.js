@@ -69,9 +69,11 @@ const App = () => {
             <p>Entry {index+1}</p>
             <button onClick={() => deleteEntry(index)} className="delete-button">Delete</button>
           </div>
+          {/* <p>Enter date</p> */}
           <input
             type="date"
             value={entry.date}
+            placeholder="date"
             onChange={(e) => handleInputChange(index, 'date', e.target.value)}
             className="input"
           />
