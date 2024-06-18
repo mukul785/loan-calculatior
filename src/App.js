@@ -69,7 +69,7 @@ const App = () => {
             <p>Entry {index+1}</p>
             <button onClick={() => deleteEntry(index)} className="delete-button">Delete</button>
           </div>
-          <p className='date-heading'>Enter date</p>
+          <p className='date-heading'>Enter date 👇</p>
           <input
             type="date"
             value={entry.date}
